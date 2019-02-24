@@ -1,1 +1,2 @@
 50 分 pomodoroタイマーにアニメーションをつけていた。
+25分 pomodorotimerの不必要なrerenderを減らしていた。
